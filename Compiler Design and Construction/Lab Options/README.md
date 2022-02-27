@@ -1,4 +1,3 @@
-For a more detailed description of what this project entailed, please view the "TranslatorLab" document above.
 The following description of the options match with the letter and number of the file name above: "C1", "C2", etc.
 
 “C” Option:
