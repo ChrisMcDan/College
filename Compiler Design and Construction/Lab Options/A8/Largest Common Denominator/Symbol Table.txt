@@ -1,0 +1,32 @@
+TOKEN                         CLASS               VALUE   ADDRESS   SEGMENT
+LCD                           <ProgramName>               0         CS
+M                             $CONST              7       0         DS
+N                             $CONST             85       0         DS
+X                             <var>               ?       0         DS
+Y                             <var>               ?       2         DS
+Z                             <var>               ?       4         DS
+Q                             <var>               ?       6         DS
+R                             <var>               ?       8         DS
+Multiply                      <PROCEDURE>                 6         CS
+A                             <var>               ?      10         DS
+B                             <var>               ?      12         DS
+lit0                          <integer>           0      14         DS
+lit2                          <integer>           2      16         DS
+Divide                        <PROCEDURE>                 8         CS
+W                             <var>               ?      18         DS
+lit1                          <integer>           1      20         DS
+GCD                           <PROCEDURE>                10         CS
+F                             <var>               ?      22         DS
+G                             <var>               ?      24         DS
+lit25                         <integer>          25      26         DS
+lit3                          <integer>           3      28         DS
+lit84                         <integer>          84      30         DS
+lit36                         <integer>          36      32         DS
+T1                            <temp>              ?      34         DS
+T2                            <temp>              ?      36         DS
+T3                            <temp>              ?      38         DS
+T4                            <temp>              ?      40         DS
+T5                            <temp>              ?      42         DS
+T6                            <temp>              ?      44         DS
+T7                            <temp>              ?      46         DS
+T8                            <temp>              ?      48         DS

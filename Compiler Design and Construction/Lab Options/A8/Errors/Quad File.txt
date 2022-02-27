@@ -1,0 +1,7 @@
+CLASS, ERROR, ?, ?
+{, ?, ?, ?
+READ, ERROR, ?, ?
++, lit5, D, T1
+=, C, T1, ?
+*, ERROR, lit6, T1
+=, E, T1, ?

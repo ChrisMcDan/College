@@ -1,0 +1,13 @@
+TOKEN                         CLASS               VALUE   ADDRESS   SEGMENT
+C3                            <ProgramName>               0         CS
+a                             <var>               ?       0         DS
+b                             <var>               ?       2         DS
+c                             <var>               ?       4         DS
+T1                            <temp>              ?       6         DS
+T2                            <temp>              ?       8         DS
+T3                            <temp>              ?      10         DS
+T4                            <temp>              ?      12         DS
+T5                            <temp>              ?      14         DS
+T6                            <temp>              ?      16         DS
+T7                            <temp>              ?      18         DS
+T8                            <temp>              ?      20         DS
