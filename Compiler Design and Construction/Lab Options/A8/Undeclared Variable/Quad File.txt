@@ -1,7 +1,0 @@
-CLASS, UndeclaredVar, ?, ?
-{, ?, ?, ?
-=, A, lit1, ?
-=, B, lit2, ?
-+, A, B, T1
-=, D, T1, ?
-}, ?, ?, ?
