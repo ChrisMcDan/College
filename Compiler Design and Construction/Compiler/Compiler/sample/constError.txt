@@ -1,6 +1,0 @@
-CLASS ConstError {
-    CONST A = 1;
-    
-    /* Attempted CONST reassignment */
-    A = 2;
-}
