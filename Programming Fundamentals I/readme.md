@@ -1,4 +1,4 @@
-COSC 1436
+# COSC 1436
 
 Introduces the fundamental concepts of structured programming.
 Topics include software development methodology, data types,
