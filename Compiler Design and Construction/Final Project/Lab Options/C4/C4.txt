@@ -1,0 +1,18 @@
+CLASS C4
+{    
+    /* 4. Compute N! using a while loop. */
+
+    VAR N, fact;
+    
+    fact = 1;
+
+    READ N;
+            
+    WHILE N > 1 DO
+    {
+        fact = fact * N;
+        N = N - 1;
+    }
+
+    WRITE fact;
+}
