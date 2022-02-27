@@ -1,4 +1,4 @@
-COSC 1437
+# COSC 1437
 
 This course focuses on the object-oriented programming paradigm, emphasizing the definition
 and use of classes along with fundamentals of object-oriented design.
