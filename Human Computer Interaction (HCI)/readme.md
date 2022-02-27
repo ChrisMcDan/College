@@ -1,4 +1,4 @@
-COSC 3331
+# COSC 3331
 
 This course presented a comprehensive introduction to the principles and techniques of human-computer interaction.
 The course examined the event-driven model through the development of applications utilizing graphical design
