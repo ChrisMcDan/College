@@ -1,0 +1,7 @@
+#ifndef snake_rc
+#define snake_rc
+
+MAINICON ICON "Snake.ico"
+GLUT_ICON ICON DISCARDABLE "Snake.ico"
+
+#endif	//	snake_rc
