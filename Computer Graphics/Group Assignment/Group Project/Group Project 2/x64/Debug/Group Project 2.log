@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Lighting.h(39,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Lighting.h(40,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(46,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(47,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(48,20): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(132,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(133,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Shape.h(134,32): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\Group Project 2\Window.h(43,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Group Project 2.vcxproj -> C:\Users\me\Desktop\CHRIS\Computer Graphics\Assignments\Group Project\Group Project\x64\Debug\Group Project 2.exe
