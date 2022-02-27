@@ -1,0 +1,9 @@
+CLASS ConstDemo {
+
+    CONST A = 1, B = 2;
+
+    VAR C;
+
+    C = A + B;
+    WRITE C;    
+}

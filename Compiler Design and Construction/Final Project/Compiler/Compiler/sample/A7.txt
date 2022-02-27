@@ -1,0 +1,23 @@
+CLASS A7
+{
+    /* Calculate N! using a recursive function. */
+    VAR N, fact;
+    
+    READ N;
+    fact = 1;
+
+    PROCEDURE RecursiveFactorial()
+    {
+        IF N != 1 THEN
+	{
+	    fact = fact * N;
+            N = N - 1;
+
+            CALL RecursiveFactorial();
+        }   
+    }
+
+    CALL RecursiveFactorial();
+    WRITE fact; 
+    
+}
