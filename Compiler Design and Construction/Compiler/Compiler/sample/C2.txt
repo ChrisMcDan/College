@@ -1,0 +1,11 @@
+CLASS C2
+{    
+    VAR a, b;
+    
+    /* 2. Read two integers from the terminal and print the largest value. */
+    READ a;
+    READ b;
+    
+    IF a > b THEN WRITE a;
+    IF b > a THEN WRITE b;
+}
