@@ -2,9 +2,8 @@ For a more detailed description of what this project entailed, please view the "
 
 The following description of the options match with the letter and number of the file name above: "C1", "C2", etc.
 
-## “C” Option:  
-    1)	For the “C” option compute ans = a * ((Bob +Jane -10) /2 * 4)/ (b + c).
-        Read values for a, b, c, Bob, and Jane from the terminal and print the result.  
+### “C” Option:  
+    1)	For the “C” option compute ans = a * ((Bob +Jane -10) /2 * 4)/ (b + c). Read values for a, b, c, Bob, and Jane from the terminal and print the result.  
     2)	For a simple, read two integers from the terminal and print the largest value.  
     3)	For the nested if, read three integers from the terminal and print the largest.  
     4)	Compute N! using a “while” or “for” loop.  Read the value of N from the terminal and print the result.  If you nest for loops, place your factorial calculation in a loop           for M iterations.  M should be read from the terminal.  N! is defined as N*(N-1)! For N > 1.  0! And 1! both equal 1 by definition.  
