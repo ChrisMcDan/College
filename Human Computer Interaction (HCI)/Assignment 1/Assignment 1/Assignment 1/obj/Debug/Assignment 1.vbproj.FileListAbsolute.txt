@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.manifest
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.application
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\bin\Debug\Assignment 1.xml
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Resources.resources
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.vbproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe.manifest
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.application
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.xml
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 1\Assignment 1\Assignment 1\obj\Debug\Assignment_1.Theater.resources
