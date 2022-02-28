@@ -1,0 +1,14 @@
+﻿  Sim.cpp
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(105,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(181,10): warning C4566: character represented by universal-character-name '\u2594' cannot be represented in the current code page (1252)
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(219,10): warning C4566: character represented by universal-character-name '\u2594' cannot be represented in the current code page (1252)
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(221,10): warning C4566: character represented by universal-character-name '\u2594' cannot be represented in the current code page (1252)
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(225,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(232,10): warning C4566: character represented by universal-character-name '\u2594' cannot be represented in the current code page (1252)
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(249,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Assignment 3 (Uni-Processor Simulator)\Sim.cpp(52): warning C4715: 'que_empty': not all control paths return a value
+  LINK : C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Debug\Assignment 3.exe not found or not built by the last incremental link; performing full link
+  Assignment 3 (Uni-Processor Simulator).vcxproj -> C:\Users\Chris\Desktop\Computer Operating Systems\Assignments\Assignment 3\Assignment 3\Debug\Assignment 3.exe
