@@ -1,1 +1,1 @@
-Third assignment for this course.
+Third programming assignment for this course.
