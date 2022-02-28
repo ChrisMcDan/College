@@ -1,0 +1,10 @@
+generictopologicalsort.adb:34:10: "SortStructure" is undefined (more references follow)
+generictopologicalsort.adb:49:24: prefix of "POS" attribute must be discrete type
+generictopologicalsort.adb:50:26: prefix of "POS" attribute must be discrete type
+generictopologicalsort.adb:51:17: no selector "Suc" for type "Node" defined at line 11
+generictopologicalsort.adb:52:40: prefix of "POS" attribute must be discrete type
+generictopologicalsort.adb:53:24: prefix of "POS" attribute must be discrete type
+generictopologicalsort.adb:91:53: no selector "Suc" for type "Node" defined at line 11
+generictopologicalsort.adb:93:53: no selector "Suc" for type "Node" defined at line 11
+generictopologicalsort.adb:140:17: prefix of "VAL" attribute must be discrete type
+generictopologicalsort.adb:145:14: prefix of "VAL" attribute must be discrete type

@@ -1,0 +1,3 @@
+generictopologicalsort.ads:6:06: subprogram specification expected
+generictopologicalsort.ads:6:14: reserved word "procedure" cannot be used as identifier
+generictopologicalsort.ads:7:06: compilation unit expected

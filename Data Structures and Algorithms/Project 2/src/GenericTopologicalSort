@@ -1,0 +1,179 @@
+with Ada.Text_IO; use Ada.Text_IO;
+with Unchecked_Conversion;
+
+package body GenericTopologicalSort is
+
+   type Node;
+   type NodePoint is access Node;
+
+   type Node is record
+      Information: SortElement;
+      link: NodePoint;
+   end record;
+
+   type Field is record
+      Count: Integer := 0;
+      Point: NodePoint;
+   end record;
+
+   Point1: NodePoint;
+   Check: Integer;
+   max : constant Integer := 6;
+   Top: array(0..max) of Field;
+   F : SortElement;
+   R : SortElement;
+   T : Integer;
+   A : SortElement;
+   B : SortElement;
+
+   Arr: array(1..S) of SortElement;
+
+   function Pos is new Unchecked_Conversion(SortElement, Integer);
+   function Val is new Unchecked_Conversion(Integer, SortElement);
+
+   procedure GetElement(X: out SortElement; Y: out SortElement) is
+   begin
+      T := T + 1;
+      X := Arr(T);
+      T := T + 1;
+      Y := Arr(T);
+   end GetElement;
+
+   procedure ReadElement is
+   begin
+      Get(A);
+      while A /= val(0)  
+      loop
+         Arr(T) := A;
+         T := T + 1;
+         Get(A);
+      end loop;
+   end ReadElement;
+
+   procedure PrintList is
+   begin
+      T:= 0;
+      while T < S 
+      loop
+         GetElement(A,B);
+         Prin(A);Put(" < ");Prin(B);
+         new_line(1);
+         Top(pos(B)).Count := Top(pos(B)).Count + 1;
+         Point1 := new Node;
+         Point1.Information := B;
+         Point1.Link := Top(pos(A)).Point;
+         Top(pos(A)).Point := Point1;
+      end loop;
+      new_line(1);
+   end Printlist;
+
+   procedure Result is
+   begin
+      if Check /= 0 
+      then
+           put("No Solution. One possible loop causing the problem is: ");
+         for T in 1..Max
+         loop
+            Top(T).Count := 0;
+         end loop;
+
+         for T in 1..Max
+         loop
+            Point1 := Top(T).Point;
+            Top(T).Point := null;
+            if Point1 /= null 
+            then
+               while Point1 /= null
+               loop
+                  if Top(pos(Point1.Information)).Count = 0 
+                  then
+                     Top(pos(Point1.Information)).Count := T;
+                  end if;
+                  if Point1.link /= null 
+                  then
+                     Point1 := Point1.Link;
+                  else
+                     Point1 := null;
+                  end if;
+               end loop;
+            end if;
+         end loop;
+
+         T := 1;
+         while Top(T).Count = 0 loop
+            T := T + 1;
+         end loop;
+
+         loop
+            Top(T).Point := new Node'(val(1), Top(T).Point);
+            T := Top(T).Count;
+            exit when Top(T).Point /= null;
+         end loop;
+
+         loop
+            prin(val(T));Put(", ");
+            Top(T).Point := null;
+            T := Top(T).Count;
+            if Top(T).Point = null then
+               prin(val(T));Put(", ");
+               exit;
+            end if;
+         end loop;
+
+      else
+         Put("The answer is a legit topological sort. Bye."); 
+         new_line(1);
+      end if;
+   end Result;
+
+
+   procedure TopologicalSort is
+   begin
+      Top(0).Count := 0;
+      for T in 1..max
+      loop
+         if Top(T).Count = 0 
+         then
+            Top(pos(R)).Count := T;
+            R := val(T);
+         end if;
+      end loop;
+      F := val(Top(0).Count);
+
+      Put("One possible Topological sort is: ");
+      while Pos(F) /= 0
+      loop
+         prin(F);Put(", ");
+         Check := Check - 1;
+         Point1 := Top(pos(F)).Point;
+         Top(pos(F)).Point := null;
+         while Point1 /= null
+         loop
+            Top(pos(Point1.Information)).Count := Top(pos(Point1.Information)).Count - 1;
+            if Top(pos(Point1.Information)).Count = 0 
+            then
+               Top(pos(R)).Count := pos(Point1.Information);
+               R := Point1.Information;
+            end if;
+            Point1 := Point1.Link;
+         end loop;
+         F := val(Top(pos(F)).Count);
+      end loop;
+      new_line(2);
+
+   end TopologicalSort;
+
+
+begin
+   R := Val(0);
+   Check := max;
+
+   for T in 1..max
+   loop
+      Top(T).Count := 0;
+      Top(T).Point := null;
+   end loop;
+
+   T := 1;
+
+end GenericTopologicalSort;
