@@ -1,1 +1,1 @@
-Second assignment for this course.
+Second programming assignment for this course.
