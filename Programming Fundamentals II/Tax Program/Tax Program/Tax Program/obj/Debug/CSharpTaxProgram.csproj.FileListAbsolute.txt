@@ -1,0 +1,10 @@
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\Tax_Program.Form1.resources
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\Tax_Program.Properties.Resources.resources
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\CSharpTaxProgram.csproj.GenerateResource.Cache
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\CSharpTaxProgram.csproj.CoreCompileInputs.cache
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\CSharpTaxProgram.csprojResolveAssemblyReference.cache
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\bin\Debug\Tax Program.exe.config
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\bin\Debug\Tax Program.exe
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\bin\Debug\Tax Program.pdb
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\Tax Program.exe
+C:\Users\xboxo\Desktop\COSC 2 (Zip Everything)\Tax Program\Tax Program\Tax Program\obj\Debug\Tax Program.pdb
