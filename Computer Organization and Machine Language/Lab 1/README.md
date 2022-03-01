@@ -1,1 +1,1 @@
-First assignment for this course.
+First programming assignment for this course.
