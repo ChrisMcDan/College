@@ -1,0 +1,4 @@
+#Sat Apr 25 15:28:17 CDT 2020
+base.0=C\:\\Users\\Chris\\Desktop\\Human-Computer Interaction\\Assignments\\Assignment 5\\Notepadv1\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

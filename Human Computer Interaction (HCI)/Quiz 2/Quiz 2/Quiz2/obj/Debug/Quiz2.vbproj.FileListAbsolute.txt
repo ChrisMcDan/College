@@ -1,0 +1,11 @@
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\bin\Debug\Quiz2.exe.config
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\bin\Debug\Quiz2.exe
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\bin\Debug\Quiz2.pdb
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\bin\Debug\Quiz2.xml
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.vbprojAssemblyReference.cache
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.Form1.resources
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.Resources.resources
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.vbproj.GenerateResource.cache
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.exe
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.xml
+C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Quiz 2\Quiz2\Quiz2\obj\Debug\Quiz2.pdb

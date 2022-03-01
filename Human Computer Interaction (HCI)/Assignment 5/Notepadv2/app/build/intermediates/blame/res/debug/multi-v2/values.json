@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Chris\\Desktop\\Human-Computer Interaction\\Assignments\\Assignment 5\\Notepadv2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chris\\Desktop\\Human-Computer Interaction\\Assignments\\Assignment 5\\Notepadv2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,5,4,3,6",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,294,332,376,202,153,103,254",
+                        "endColumns": "47,37,43,47,51,48,49,39",
+                        "endOffsets": "98,327,371,419,249,197,148,289"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,141,185,233,285,334,384",
+                        "endColumns": "47,37,43,47,51,48,49,39",
+                        "endOffsets": "98,136,180,228,280,329,379,419"
+                    }
+                }
+            ]
+        }
+    ]
+}

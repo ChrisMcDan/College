@@ -1,0 +1,35 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:4:5-12:19
+	android:icon
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:4:18-47
+activity#com.android.demo.notepad2.Notepadv2
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:5:9-10:20
+	android:label
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:5:45-77
+	android:name
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:5:19-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:6:13-9:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:7:17-69
+	android:name
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:7:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:8:17-77
+	android:name
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:8:27-74
+activity#com.android.demo.notepad2.NoteEdit
+ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:11:9-46
+	android:name
+		ADDED from C:\Users\Chris\Desktop\Human-Computer Interaction\Assignments\Assignment 5\Notepadv2\app\src\main\AndroidManifest.xml:11:19-43

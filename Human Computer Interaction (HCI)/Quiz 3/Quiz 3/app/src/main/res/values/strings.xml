@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dialog Box</string>
+    <string name="button">Button</string>
+    <string name="image">image</string>
+    <string name="Was_this_class_fun">Was this class fun?</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>

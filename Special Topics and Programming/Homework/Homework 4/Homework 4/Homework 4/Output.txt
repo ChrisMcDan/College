@@ -1,0 +1,12 @@
+1 1 1 0 0 0 0 0 
+1 1 1 0 2 2 0 0 
+1 1 1 0 2 2 0 0 
+1 1 1 0 0 0 3 0 
+1 1 1 0 0 0 3 0 
+1 1 1 0 0 0 3 0 
+1 1 1 0 0 4 3 0 
+1 1 1 0 0 0 0 0 
+-------------------------------------------
+The number of objects in the image: 3
+The largest object in the image has a length of: 24(BONUS).
+
