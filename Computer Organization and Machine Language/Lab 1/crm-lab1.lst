@@ -1,0 +1,36 @@
+     1                                  ; crm-lab1 in NASM assembly
+     2                                  ;    *  to assemble, use the command "nasm crm-lab1.asm -o crm-lab1.com"
+     3                                  ;    *  to execute in DOSBox, type "crm-lab1"
+     4                                  
+     5                                  ; Header section  -- instructions to the assembler
+     6                                  	cpu 286			; limit code to 16 bit for 80286 and earlier
+     7                                  	org 100h		; program origination point
+     8                                  	
+     9                                  ; EQUates section
+    10                                  CR	equ	0Dh		; ASCII code for carriage return
+    11                                  LF	equ	0Ah		; ASCII code for line feed
+    12                                  
+    13                                  ; initialized data goes here	
+    14                                  section .data
+    15 00000000 4368726973746F7068-     msg	db  "Christopher McDaniel", CR, LF, '$' 	; define an ASCII$ string	
+    15 00000009 6572204D6344616E69-
+    15 00000012 656C0D0A24         
+    16                                  
+    17                                  ; uninitialized data goes here, if any
+    18                                  section .bss
+    19                                  	; for this program there is no uninitialized data
+    20                                  
+    21                                  ; the program body goes here
+    22                                  section .text
+    23                                  	
+    24                                  main:
+    25 00000000 BA[0000]                	mov dx,msg		; load address of ASCII$ to display
+    26 00000003 B409                    	mov ah, 9		; display string function
+    27 00000005 CD21                    	int 21h			; display the string
+    28                                  
+    29                                  ; the program termination code goes here	
+    30 00000007 B44C                    	mov ah, 4Ch		; call for sys_exit
+    31 00000009 B000                    	mov al, 0		; normal termination code
+    32 0000000B CD21                    	int 21h			; return to OS
+    33                                  	
+    34                                  ;  other procedures which main calls (if any) go here
